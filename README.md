@@ -35,7 +35,7 @@ all black rouned custom firefox theme for firefox gecko base browsers by🍉
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/crteChromefl.jpg"></td>
   </tr>
 
-  5. Download your favorite theme from latest releases `unzip` it & `drag & drop` any of the theme files to `chrome folder`
+  5. Download your favorite theme from latest [releases](https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/releases/tag/V1) do`unzip` it & `drag & drop` any of the theme files to `chrome folder`
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/cpytoChrome.jpg"></td>
   </tr>
