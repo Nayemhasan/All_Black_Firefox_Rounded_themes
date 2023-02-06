@@ -20,6 +20,11 @@ all black rouned custom firefox theme for firefox gecko base browsers by🍉
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/aboutConfig.jpg"></td>
   </tr>
 
+  2. Now the second search bar type `toolkit.legacyUserProfileCustomizations.stylesheets` & clik the left swap button to make it `true`.
+  <tr>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/true.jpg"></td>
+  </tr>
+
   <table>
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/steps/1.jpg"></td>
