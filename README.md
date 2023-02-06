@@ -25,18 +25,17 @@ all black rouned custom firefox theme for firefox gecko base browsers by🍉
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/true.jpg"></td>
   </tr>
 
-  <table>
+  3. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
   <tr>
-    <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/steps/1.jpg"></td>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/abtprofiles.jpg"></td>
   </tr>
- </table>
-  
-  `Enable developer mode`
-    <table>
+
+  4. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
   <tr>
-    <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/steps/2.jpg"></td>
+    <td><img src=""></td>
   </tr>
- </table>
+
+
 
   `Drag & drop any of the theme you want to install`
     <table>
