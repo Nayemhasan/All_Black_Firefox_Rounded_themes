@@ -2,3 +2,14 @@
 all black rouned custom firefox theme for firefox gecko base browsers by🍉
 
 & I am again boared with black themes that have grey boarders and mismatched button colors. So i made my own. be hold all black custom firefox theme by🍉+ with rounded corners and ceneted bookmarks bar.
+
+
+ <table>
+   <td>superblack</td>
+   <td>supermelon</td>
+  <tr>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/final/superblk.jpg"></td>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/final/superblk_mln.jpg"></td>
+  </tr>
+ </table>
+
