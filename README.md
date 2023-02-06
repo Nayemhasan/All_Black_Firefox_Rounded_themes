@@ -15,36 +15,41 @@ all black rouned custom firefox theme for firefox gecko base browsers by🍉
 
 
 ## How to install?
+
+  ## For the theme
+
   1. Install this superblack_mozila theme form [here](https://addons.mozilla.org/en-US/firefox/addon/superblack_mozila/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/instlTheme.jpg"></td>
   </tr>
 
-  2. On search bar type `about:config` & accept the risk and continue.
+  ## For the centered bookmarks, rounded corners & homepage images(black and melon)
+  
+  1. On search bar type `about:config` & accept the risk and continue.
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/aboutConfig.jpg"></td>
   </tr>
 
-  3. Now the second search bar type `toolkit.legacyUserProfileCustomizations.stylesheets` & clik the left swap button to make it `true`.
+  2. Now the second search bar type `toolkit.legacyUserProfileCustomizations.stylesheets` & clik the left swap button to make it `true`.
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/true.jpg"></td>
   </tr>
 
-  4. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
+  3. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/abtprofiles.jpg"></td>
   </tr>
 
-  5. Create a new folder and name it `chrome` & open it.
+  4. Create a new folder and name it `chrome` & open it.
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/crteChromefl.jpg"></td>
   </tr>
 
-  6. Download your favorite theme from latest [releases](https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/releases/tag/V1) do`unzip` it & `drag & drop` any of the theme files to `chrome folder`
+  5. Download your favorite theme from latest [releases](https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/releases/tag/V1) do`unzip` it & `drag & drop` any of the theme files to `chrome folder`
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/cpytoChrome.jpg"></td>
   </tr>
 
-  7. Close and Restart Firefox & `Done✔`
+  6. Close and Restart Firefox & `Done✔`
 
 ## Thank You🍉
