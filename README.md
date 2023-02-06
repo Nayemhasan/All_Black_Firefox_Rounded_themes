@@ -23,8 +23,8 @@ all black rouned custom firefox theme for firefox gecko base browsers by🍉
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/instlTheme.jpg"></td>
   </tr>
 
-  ## For the centered bookmarks, rounded corners & homepage images(black and melon)
-  
+  ## For the centered bookmarks, rounded corners & homepage bg images(black and melon)
+
   1. On search bar type `about:config` & accept the risk and continue.
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/aboutConfig.jpg"></td>
