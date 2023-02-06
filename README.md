@@ -30,7 +30,27 @@ all black rouned custom firefox theme for firefox gecko base browsers by🍉
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/abtprofiles.jpg"></td>
   </tr>
 
-  4. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
+  4. Create a new folder and name it `chrome` & open it.
+  <tr>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/crteChromefl.jpg"></td>
+  </tr>
+
+ 4. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
+  <tr>
+    <td><img src=""></td>
+  </tr>
+
+ 4. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
+  <tr>
+    <td><img src=""></td>
+  </tr>
+
+ 4. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
+  <tr>
+    <td><img src=""></td>
+  </tr>
+
+ 4. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
   <tr>
     <td><img src=""></td>
   </tr>
