@@ -8,8 +8,8 @@ all black rouned custom firefox theme for firefox gecko base browsers by🍉
    <td>superblack</td>
    <td>supermelon</td>
   <tr>
-    <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/final/superblk.jpg"></td>
-    <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/final/superblk_mln.jpg"></td>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/blk.jpg"></td>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/blkmelon.jpg"></td>
   </tr>
  </table>
 
