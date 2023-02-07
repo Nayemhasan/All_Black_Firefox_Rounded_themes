@@ -25,21 +25,26 @@ all black rouned custom firefox theme for firefox gecko base browsers by🍉
 
   ## For the centered bookmarks, rounded corners & homepage bg images(black and melon)
 
-  1. On search bar type 
+  1. On search bar type this 👇 & accept the risk and continue.
   ```bash 
   about:config
   ``` 
-  & accept the risk and continue.
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/aboutConfig.jpg"></td>
   </tr>
 
-  2. Now the second search bar type `toolkit.legacyUserProfileCustomizations.stylesheets` & clik the left swap button to make it `true`.
+  2. Now the second search bar type this 👇 & clik the left swap button to make it `true`.
+  ```bash
+  toolkit.legacyUserProfileCustomizations.stylesheets
+  ```
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/true.jpg"></td>
   </tr>
 
-  3. On search bar type `about:profiles` & clik on the "Open Folder" in Root Directory
+  3. On search bar type this 👇 & clik on the "Open Folder" in Root Directory
+  ```bash
+  about:profiles
+  ```
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/abtprofiles.jpg"></td>
   </tr>
