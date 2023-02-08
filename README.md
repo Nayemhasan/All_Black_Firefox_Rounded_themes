@@ -18,7 +18,7 @@ all black rouned custom firefox theme for firefox gecko base browsers by🍉
 
   ## For the theme
 
-  1. Install this superblack_mozila theme form [here](https://addons.mozilla.org/en-US/firefox/addon/superblack_mozila/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) `theme updated to 2.0 remove previous theme and intstall the new one`
+  1. Install this superblack_mozila theme form [here](https://addons.mozilla.org/en-US/firefox/addon/superblack_mozila/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) `theme updated to 2.0, remove previous theme and intstall the new one`
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/instlTheme.jpg"></td>
   </tr>
